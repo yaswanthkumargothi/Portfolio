@@ -1,0 +1,4 @@
+Data:
+1. The total number of records is 34281 with 24 independent attributes and the 25th column is the target which needs to be predicted.
+2. The variables are masked, and we get little information from their names.
+3. Missing values are represented as NA in some columns and as -99 in some other columns

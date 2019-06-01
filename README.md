@@ -9,7 +9,7 @@ Machine learning Projects
   4. [Heart Disease or Not](HeartDisease.R): healthcare organization together with a couple of government hospitals in a city has collected information about the vitals that would reveal if the person might have a coronary heart disease in the next ten years or not. Given the data, we need to develop appropriate models to identify/predict if the person likely to have heart disease or not.
  
  Social Media Intelligence
-  1. Sentiment and Network Analysis of Different groups on Autonomous Vehicles.
+  1. [Sentiment and Network Analysis of Different groups on Autonomous Vehicles](https://drive.google.com/file/d/0B2rpo1ddK0UOZ3pHcnNSVXVCNDgtQWpNNUxqTElCV3I0bEZB/view?usp=sharing).
 
 Kaggle
   1. Titanic

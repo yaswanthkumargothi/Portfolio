@@ -2,6 +2,8 @@
 
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files 
 
+[Graduating_Project](/Graduating_Project/): Transfer Learning combined with statistical analysis to answer the question " Will Restaurant sentiments change due to a Mass Shooting?"
+
 Machine learning Projects
   1. [Product Demand forecasting and Customer segmentation](/Customerseg/): Thus, it is in Retailer’s interest to forecast the demand of the products based on the trends in past transactions and at the same time obtain customer segments by considering their demographics and past purchases for target marketing.
   2. [Bankrupt or Not ](/BankruptorNot/): Predicting given Firm is going to Bankrupt or not using Financial Data. The given data contains financial ratios of various firms and the target attribute tells whether the firm has got bankrupt in the subsequent years or not.

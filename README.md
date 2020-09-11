@@ -2,7 +2,7 @@
 
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files 
 
-[Graduating Project](/Graduating_Project/): Transfer Learning combined with statistical analysis to answer the question "Whether Restaurant sentiments change due to a Mass Shooting?"
+[Graduating Project](/Graduating_Project/): Transfer Learning combined with statistical analysis to answer the question "Will Restaurant sentiments change due to a Mass Shooting?"
 
 [Internship](Internship_Report.pdf): End of the year internship at IFSTTAR,Nantes on classification of wheel configurations using Machine Learning and Deep Learning.
 

@@ -15,5 +15,5 @@ The folder consists of Several files
 [images](/images/): This folder consists of difference in difference assumption trend plots.
 
 
-
+![Project Flowchart](/images/flowchart.jpg?raw=true "Flow Chart of the Project")
 

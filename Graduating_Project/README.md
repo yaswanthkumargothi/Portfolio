@@ -16,5 +16,5 @@ The folder consists of Several files
 
 ### Project Flowchart
 
-<img src="images/flowchart.JPG" width="800">
+<img src="images/flowchartlarge.JPG" width="800">
 

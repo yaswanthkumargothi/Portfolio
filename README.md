@@ -22,4 +22,4 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ### Data Visualization and Analytics
  1. Dognition Company Smart Recommendations using Tableau 
- [![Watch the video](https://imgur.com/GU235Ro)](https://youtu.be/jN_KA-nAKnI)
+ [![Watch the video](https://j.gifs.com/gZlWql.gif)](https://youtu.be/jN_KA-nAKnI)

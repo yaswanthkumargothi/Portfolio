@@ -19,3 +19,6 @@ Repository containing portfolio of data science projects completed by me for aca
 
  1. [Household Load Forecasting-Stats+LSTM+Prophet](https://www.kaggle.com/yaswanthkumar/household-load-forecasting-stats-lstm-prophet): Load forecasting using Holt-Winters, ARIMA, Long Short-Term Memory Networks(LSTM), and Facebook's Prophet.
  2. [Comprehensive Tutorial on Churn Modelling](https://www.kaggle.com/yaswanthkumar/comprehensive-tutorial-on-churn-modelling): Churn Modelling using classification algorithms and producing rules for targetted Marketing.
+
+### Data Visualization and Analytics
+ 1. Dognition Company Smart Recommendations using Tableau [![Watch the video](https://imgur.com/GU235Ro)](https://youtu.be/jN_KA-nAKnI)

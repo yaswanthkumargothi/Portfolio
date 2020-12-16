@@ -21,7 +21,7 @@ Repository containing portfolio of data science projects completed by me for aca
  2. [Comprehensive Tutorial on Churn Modelling](https://www.kaggle.com/yaswanthkumar/comprehensive-tutorial-on-churn-modelling): Churn Modelling using classification algorithms and producing rules for targetted Marketing.
  
 ### Hackathons
-  1. [Wind Power forecasting for the day-ahead energy market by Compagnie Nationale du Rhône] (cnr_hackathon.ipynb)
+  1. [Wind Power forecasting for the day-ahead energy market by Compagnie Nationale du Rhône](cnr_hackathon.ipynb)
 
 
 ### Data Visualization and Analytics

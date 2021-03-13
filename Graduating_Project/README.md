@@ -1,10 +1,10 @@
 The folder consists of Several files
 
-[review_classifier.py](review_classifier.py): Deep learning model file which produces export.pkl file to infer upon the yelp data
+[review_classifier.py](review_classifier.py): Deep learning model script which produces export.pkl file to infer upon the yelp data
 
-[preprocess.py](preprocess.py): preprocessing done to convert classified data into required cross sectional format for difference in difference modelling 
+[preprocess.py](preprocess.py): preprocessing script to convert classified data into required cross sectional format for difference in difference modelling 
 
-[yelpdata_explore.ipynb](yelpdata_explore.ipynb): Yelp data and variables
+[yelpdata_explore.ipynb](yelpdata_explore.ipynb): Yelp data variable analysis
 
 [export.pkl](export.pkl): load this pickle file using load_learner method from Fastai and get prediction classifications for data 
 

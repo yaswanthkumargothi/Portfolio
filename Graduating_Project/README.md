@@ -1,3 +1,17 @@
+### Objective
+The objective of this project is to 
+
+1. Understand and compare the applicability of Transfer Learning in the context of sentiment Analysis with rule-based approaches
+2. Utilize difference in difference modelling to check for the significance of a Mass-shooting on restaurant sentiments. 
+
+[images](/images/): This folder consists of difference in difference assumption trend plots and project flowchart.
+
+### Project Flowchart
+
+<img src="images/flowchartlarge.JPG" width="800">
+
+### files
+
 The folder consists of Several files
 
 [review_classifier.py](review_classifier.py): Deep learning model script which produces export.pkl file to infer upon the yelp data
@@ -11,10 +25,3 @@ The folder consists of Several files
 [diffndiff.R](diffndiff.R): R file to plot assumptions and build difference in difference models
 
 [data](/data/): This folder consists of processed data from predictions and Yelp data files
-
-[images](/images/): This folder consists of difference in difference assumption trend plots and project flowchart.
-
-### Project Flowchart
-
-<img src="images/flowchartlarge.JPG" width="800">
-

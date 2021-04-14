@@ -1,8 +1,11 @@
-### Objective
-The objective of this project is to 
+### Abstract
 
-1. Understand and compare the applicability of Transfer Learning in the context of sentiment Analysis with rule-based approaches
-2. Utilize difference in difference modelling to check for the significance of a Mass-shooting on restaurant sentiments. 
+
+Mass shootings and their impact personally and economically are currently at the forefront of political debate in the United States. The foundation of this project revolves around Mass shootings impact on restaurant reviews supported by background literature detailing novel approaches in Sentiment Analysis and transfer learning to set up the framework for the research on mass shootings's impact on Public opinion. The accuracy of the Transfer Learning model was compared with a rule-based approach on three different Test sets. Transfer Learning outperforms rule-based approach by 96% to 79% on short-reviews, 94% to 71% on medium reviews, and 94% to 66% on long reviews. The findings in this paper are based on Restaurant Reviews data from Yelp in the year 2017.  Difference in Difference model study has found that there is no effect of 2017 mass shooting event on online restaurant reviews public opinion following a mass shooting event in areas near the shooting event in the city of Las Vegas. 
+
+
+Keywords: Sentiment Analysis; Causality; Transfer Learning; Rule-based Language Classification; Mass shootings; Online Restaurant Reviews 
+ 
 
 
 

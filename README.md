@@ -2,9 +2,9 @@
 
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files 
 
-[Graduating Project](/Graduating_Project/): Transfer Learning combined with statistical analysis to answer the question "Does Restaurant sentiments change due to a Mass Shooting?"
+[Graduating Project](/Graduating_Project/): Sentiment Classification and change detection of online restaurant reviews using Transfer Learning and Difference in Difference Modelling.  
 
-[Internship](Internship_Report.pdf): End of the year Artificial Intelligence internship at IFSTTAR, Nantes.
+[Internship](Internship_Report.pdf): End of the year Artificial Intelligence internship at IFSTTAR, Nantes in Sensory data pattern recognition and wheel classification.  
 
 ### Machine learning Projects
   1. [Product Demand forecasting and Customer segmentation](/Customerseg/): Thus, it is in Retailer’s interest to forecast the demand of the products based on the trends in past transactions and at the same time obtain customer segments by considering their demographics and past purchases for target marketing.

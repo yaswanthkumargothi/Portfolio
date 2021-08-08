@@ -16,8 +16,10 @@ Repository containing portfolio of data science projects completed by me for aca
 ### Computer Vision Project
 
   1. [Barcode detection](https://github.com/yaswanthkumargothi/Barcode_Detection): Barcode detection using YOLO approach and DarkNet. Detecting Barcodes on Text-books for information assimilation and retrieval.
-  2. [Indian Cuisine detection](https://github.com/yaswanthkumargothi/Cuisine-name-app): Kivy application to detect 20 Indian dishes in Images.
+  2. [Indian Cuisine detection application](https://github.com/yaswanthkumargothi/Cuisine-name-app): Kivy application which can detect 20 Indian dishes in Images.
 
+### Automation and bots
+  1. [Telegram Cypto Sentiment Bot](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Telegram): Telegram bot using Naasai(An open-source contribution demonstrating Naasai's capabilities to get crypto sentiment on Newsapi articles) 
 
 ### Social Media Intelligence 
   1. [Sentiment and Network Analysis of Different groups on Autonomous Vehicles](https://drive.google.com/file/d/0B2rpo1ddK0UOZ3pHcnNSVXVCNDgtQWpNNUxqTElCV3I0bEZB/view?usp=sharing): The aim of this project is to find people’s, governments’ and companies’ opinion regarding autonomous vehicles by performing Sentiment and Network Analysis using Twitter dataset.

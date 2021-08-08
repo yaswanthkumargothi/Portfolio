@@ -16,6 +16,7 @@ Repository containing portfolio of data science projects completed by me for aca
 ### Computer Vision Project
 
   1. [Barcode detection](https://github.com/yaswanthkumargothi/Barcode_Detection): Barcode detection using YOLO approach and DarkNet. Detecting Barcodes on Text-books for information assimilation and retrieval.
+  2. [Indian Cuisine detection](https://github.com/yaswanthkumargothi/Cuisine-name-app): Kivy application to detect 20 Indian dishes in Images.
 
 
 ### Social Media Intelligence 

@@ -32,6 +32,7 @@ Repository containing portfolio of data science projects completed by me for aca
  
 ### Hackathons
   1. [Wind Power forecasting for the day-ahead energy market by Compagnie Nationale du Rhône](cnr_hackathon.ipynb)
+  2. [Zindi Economic Well-being prediction challenge](https://zindi.africa/users/yashgothi/competitions/certificate)
 
 
 ### Data Visualization and Analytics
